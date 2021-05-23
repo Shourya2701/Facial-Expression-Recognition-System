@@ -14,5 +14,12 @@ Facial expressions are the visible manifestation of the affective state, cogniti
                                                    Grand Total	          35887
                                              Table 1: Dataset Distribution
 </pre>
-                                ![image](https://user-images.githubusercontent.com/52919528/119253962-44b1e400-bbd1-11eb-9c6b-255225c21057.png)
-                                              LeNet Architecture
+<image align=”center”>![image](https://user-images.githubusercontent.com/52919528/119253962-44b1e400-bbd1-11eb-9c6b-255225c21057.png)<br /></image>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        LeNet Architecture
+
+
+Output:-<br />
+![image](https://user-images.githubusercontent.com/52919528/119254228-c35b5100-bbd2-11eb-9e7c-d1a983893f19.png)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Live webcam recorded video 
